@@ -15,7 +15,7 @@ elif operation == "/":
 elif operation == "**":
     result = x**y
 else: 
-    print ("Unsupported operation")
+    print ("Unknown operation")
     
 if result is not None:
     print ("Result:",result) 
